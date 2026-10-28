@@ -2,9 +2,6 @@
 
 A secure, scalable RESTful backend system for a healthcare application built with **Node.js**, **Express**, **Sequelize ORM**, and **PostgreSQL**. The system provides user authentication via JWT, role-aware record management for patients and doctors, and relational patient-doctor appointment mappings.
 
-> **Note on Framework Selection:**  
-> Per the assignment guidelines (*"Please use the Django/Node framework for completing the assignment. You are free to use any libraries necessary."*), this solution is implemented using **Node.js** with **Sequelize ORM** (the Node.js equivalent to Django ORM) and **PostgreSQL**.
-
 ---
 
 ##  Tech Stack
